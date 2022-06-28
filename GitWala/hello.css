@@ -1,0 +1,58 @@
+body{
+    background-image: url("couple.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.div{
+    font-size: 20px;
+    color: black;
+}
+
+#hello{
+    font-style: normal;
+    text-align: center;
+    text-decoration: dotted;
+    text-shadow: 0.5;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    background-color: white;
+}
+.para{
+    font-size: 20px;
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+}
+.button{
+   
+    margin-right: 100px;
+    margin-top: 40px;
+    border-width: 20px;
+    border-radius: 10px;
+    border-top-color: green;
+    border-right-color: orange;
+    border-left-color: blue;
+    border-style: solid;
+    background-color: gray;
+    color: white;
+
+}
+.div{
+    padding: 50px;
+}
+.div-btn{
+   position: fixed;
+   display: inline-block;
+   background-color: brown;
+
+}
+.first-btn{
+    background-color: blue;
+    margin-right: 100px;
+    margin-top: 40px;
+    border-width: 20px;
+
+}

@@ -1,0 +1,36 @@
+#nav-bar{
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 70%;
+    padding: 30px;
+    display: block;
+    border-bottom-width: 10px;
+    border-bottom-color: gray;
+    position: stickly;
+}
+.nav-title{
+    font-size: 2em;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}.nav-item{
+    font-size: 1.5em;
+    padding-left: 2em;
+
+}
+#nav-button{
+    padding: 5px;
+    border: 2px;
+    height: 30px;
+    width: 90px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 200;
+    border-radius: 10px;
+    position: absolute;
+    display: inline-block;
+    right: 20px;
+}
